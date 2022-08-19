@@ -105,7 +105,7 @@ Explore the API endpoints in Postman or a browser. You will not be able to utili
 
 ### Using the JSON Web Token
 In order to be authorized to use the POST, PUT, DELETE functionality of the API, please authenticate yourself through Postman.
-* Open Postman and create a POST request using the URL: `http://localhost:5000/api/users/autmanagement/register`
+* Open Postman and create a POST request using the URL: `http://localhost:5000/api/users/authmanagement/register`
 * Add the following query to the request as raw data in the Body tab:
 ```
 {
