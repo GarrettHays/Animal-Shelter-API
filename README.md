@@ -7,6 +7,8 @@
 ## Technologies Used
 
 * _C#/.NET_
+* _SQL Workbench_
+* _MVC_
 * _Entity Framework_
 * _Identity_
 * _JwtBearer_
@@ -96,7 +98,7 @@ Then run the following command in the console
 
   ``dotnet run``
 
-This program was built using _`Microsoft .NET SDK 5.0.401`_, and may not be compatible with other versions. 
+This program was built using _`Microsoft .NET SDK 5.0.401`_, and may not be compatible with other versions. Cross-version performance is neither implied nor guaranteed, your actual mileage may vary.
 
 ## API Documentation
 Explore the API endpoints in Postman or a browser. You will not be able to utilize authentication in a browser.
